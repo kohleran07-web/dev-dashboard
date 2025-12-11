@@ -161,3 +161,8 @@ body {
   font-size: 0.8rem;
   color: #6b7280;
 }
+
+/* small search input polish */
+.page input[type="text"] {
+  outline: none;
+}
